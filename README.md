@@ -1,14 +1,23 @@
-# ddos-tool
+ddos-tool
  
 
-#Manufacturer: virus450 
+Manufacturer: virus450 
+----------------------
+Required tanks:
 
-#Required tanks 
+apt install python3
 
-#apt install python3
+git clone https://github.com/Virus540/ddos-tools
+
+cd ddos-tool
+
+ls
+
+python3 DDOs.py
 
  ______________ 
 
-#High speed
+High speed
 
-#Strong and advance
+Strong and advance
+
